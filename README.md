@@ -1,5 +1,16 @@
-# 💫 About Me:
-👋 Hey, I'm Ayman!<br><br>I'm a passionate developer with a love for coding in Python, React, and system programming. I enjoy building things that automate tasks, make lives easier, and just plain have fun with code. From bots to servers, I've dipped into a variety of projects that showcase my skills and creativity.<br>What I'm Working On<br><br>    Discord Bots: I'm currently building a Discord bot that listens for "meme words" and reacts accordingly. It's hosted on Railway and managed using environment variables for security and scalability.<br><br>    Multi-Page Apps: I’m working on React-based multi-page apps, with plans to explore mobile development using React Native.<br><br>    Shell Programming: I love digging into C and shell programming. Recently, I’ve been designing a custom shell that handles job control (like background processes and managing pids), and I’m implementing advanced features like foreground and background process handling.
+## About Me
+
+I am an avid software developer, programmer, open-source contributor, web developer, and artist. I have a passion for creating interactive applications and games, whether it's a collaborative story writing platform or a fun Discord bot. My journey in coding has led me to explore various technologies, including Python, React, and C, and I enjoy sharing my projects with the community.
+
+
+## Ongoing Personal Projects
+
+- **Literator**: A full MERN stack web application that enables collaborative story writing. Users can work together on stories in real-time, edit chapters, and share ideas. The goal is to provide a platform for writers to create and collaborate seamlessly.
+
+- **Rhythm Labyrinth**: An open-source point-and-click adventure game built off of Crowther's *Colossal Cave Adventure* game model! In this game, the player must reach the end of the adventure map by battling and advancing through point-and-click minigames. Currently, only one adventure/map is supported, and it features fun challenges and interactive gameplay.
+
+- **Discord Bot**: A playful bot that’s designed to be a bit pesky and fun, chiming in whenever meme words or phrases are mentioned. It's hosted on Railway and uses Python’s `discord.py` library for development, with plans for further interactive features to engage users.
+
 
 
 # 💻 Tech Stack:
