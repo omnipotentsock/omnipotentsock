@@ -9,7 +9,7 @@ I am an avid software developer, programmer, open-source contributor, web develo
 
 - **Rhythm Labyrinth**: An open-source point-and-click adventure game built off of Crowther's *Colossal Cave Adventure* game model! In this game, the player must reach the end of the adventure map by battling and advancing through point-and-click minigames. Currently, only one adventure/map is supported, and it features fun challenges and interactive gameplay.
 
-- **Discord Bot**: A playful bot that’s designed to be a bit pesky and fun, chiming in whenever meme words or phrases are mentioned. It's hosted on Railway and uses Python’s `discord.py` library for development, with plans for further interactive features to engage users.
+- **Did Someone Say..?**: A playful bot that’s designed to be a bit pesky and fun, chiming in whenever meme words or phrases are mentioned. It's hosted on Railway and uses Python’s `discord.py` library for development, with plans for further interactive features to engage users.
 
 
 
